@@ -1,2 +1,2 @@
-# Java-World
-A simple hello world program in java
+# Py-World
+A simple python-based hello world program
