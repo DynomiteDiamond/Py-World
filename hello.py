@@ -1,1 +1,1 @@
-print("Hello World!") # Prints "Hello World!" when used
+print("Hello Everyone!") # Prints "Hello Everyone!" when used
